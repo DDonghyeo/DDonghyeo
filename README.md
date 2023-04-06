@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=white&height=300&section=header&text=DDonghyeo%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=green&height=300&section=header&text=DDonghyeo%20GitHub&fontSize=90)
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDonghyeo&layout=compact"><br><br>
