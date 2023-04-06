@@ -1,10 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=DDonghyeo%20GitHub&fontSize=90)
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDonghyeo&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=DDonghyeo&show_icons=true">
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDonghyeo&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=DDonghyeo&show_icons=true">
+</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDDonghyeo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
