@@ -2,7 +2,6 @@
 <br/>
 
 <h3 align="center"> 
-<a target="_blank" href="https://donghyn.shop/"> PORTFOLIO </a> 
 </h3>
   
 <br/>
@@ -10,7 +9,6 @@
 
 <h4 align="center"> FRAMEWORK </h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/></a>&nbsp 
 </p>
